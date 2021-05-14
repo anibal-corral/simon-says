@@ -30,35 +30,35 @@ body {
   float: left;
 }
 
-.celeste {
+.blue {
   background: #22a6b3;
 }
 
-.celeste.light {
+.blue.light {
   background: #7ed6df;
 }
 
-.violeta {
+.purple {
   background: #be2edd;
 }
 
-.violeta.light {
+.purple.light {
   background: #e056fd;
 }
 
-.naranja {
+.orange {
   background: #f0932b;
 }
 
-.naranja.light {
+.orange.light {
   background: #ffbe76;
 }
 
-.verde {
+.green {
   background: #6ab04c;
 }
 
-.verde.light {
+.green.light {
   background: #badc58;
 }
 
